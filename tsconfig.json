@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "target": "ESNEXT",
+        "module": "commonjs",
+        "lib": [
+            "es2018",
+            "esnext.asynciterable"
+        ],
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true,
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}

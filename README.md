@@ -1,8 +1,8 @@
 # Goals
 
-[ ] Node with typescript
-[ ] Apollo express server
-[ ] Typegraphql
-[ ] Simple graphql API
+[x] Node with typescript
+[x] Apollo express server
+[x] Typegraphql
 [ ] Repository pattern implementation
+[ ] Simple graphql API
 [ ] Authentication & Authorization (Session-based vs JWT-based)
